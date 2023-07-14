@@ -32,6 +32,8 @@ const ButtonRed = () => {
 function App() {
   return (
     <div className='flex justify-center bg-blue-600 min-h-screen items-center'>
+      
+      <div className="flex gap-x-5">
       <Button></Button>
       <Button></Button>
       <Button></Button>
@@ -41,6 +43,7 @@ function App() {
 
       <p>this is button red</p>
       <ButtonRed></ButtonRed>
+      </div>
 
     </div>)
 }
