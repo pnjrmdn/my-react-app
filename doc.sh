@@ -1,4 +1,4 @@
-//install react vai vite
+//install react via vite
 npm create vite@latest {name_project} -- --template react
 
 //start react web
